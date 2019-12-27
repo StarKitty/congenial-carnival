@@ -1,0 +1,3 @@
+name: teste-bucket
+runtime: nodejs
+description: Comparing IaC tool when creating a bucket
